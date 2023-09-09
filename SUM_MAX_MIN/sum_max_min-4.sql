@@ -1,0 +1,12 @@
+-- https://school.programmers.co.kr/learn/courses/30/parts/17043
+
+-- mysql
+SELECT DATETIME
+FROM ANIMAL_INS
+ORDER BY DATETIME
+LIMIT 1;
+
+-- oracle
+SELECT DATETIME
+FROM (SELECT * FROM ANIMAL_INS ORDER BY DATETIME ASC)
+WHERE ROWNUM = 1;
