@@ -1,6 +1,3 @@
-# programmers_codingTest_SQLHighScoreKit
-
-
 # 프로그래머스 코딩테스트 연습 (SQL 고득점 Kit)
 
 프로그래머스 코딩테스트 연습에서 SQL 고득점 Kit단계 문제를 풀고 해결하는 저장소 입니다.<br><br>
